@@ -1,0 +1,13 @@
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\bin\Debug\netcoreapp3.1\ConsoleAttributeReflections.exe
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\bin\Debug\netcoreapp3.1\ConsoleAttributeReflections.deps.json
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\bin\Debug\netcoreapp3.1\ConsoleAttributeReflections.runtimeconfig.json
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\bin\Debug\netcoreapp3.1\ConsoleAttributeReflections.runtimeconfig.dev.json
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\bin\Debug\netcoreapp3.1\ConsoleAttributeReflections.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\bin\Debug\netcoreapp3.1\ConsoleAttributeReflections.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\obj\Debug\netcoreapp3.1\ConsoleAttributeReflections.csprojAssemblyReference.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\obj\Debug\netcoreapp3.1\ConsoleAttributeReflections.AssemblyInfoInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\obj\Debug\netcoreapp3.1\ConsoleAttributeReflections.AssemblyInfo.cs
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\obj\Debug\netcoreapp3.1\ConsoleAttributeReflections.csproj.CoreCompileInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\obj\Debug\netcoreapp3.1\ConsoleAttributeReflections.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\obj\Debug\netcoreapp3.1\ConsoleAttributeReflections.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\ConsoleAttributeReflections\obj\Debug\netcoreapp3.1\ConsoleAttributeReflections.genruntimeconfig.cache
